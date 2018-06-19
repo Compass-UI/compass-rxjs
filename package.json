@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server ---watch --inline",
+    "postinstall": "typings install"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +19,7 @@
     "typescript": "^2.9.2",
     "typings": "^2.1.1",
     "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.8",
     "webpack-dev-server": "^3.1.4"
   }
 }

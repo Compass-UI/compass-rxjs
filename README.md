@@ -2,9 +2,17 @@
 
 [http://reactivex.io/](http://reactivex.io/)
 
-# Installation
+## Webpack new syntax
+
+[https://github.com/TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader)
+
+## Installation
 
 `gemini-david 🌴 : npm i webpack webpack-dev-server typescript typings ts-loader -D`
+
+`gemini-david 🌴 : npm i webpack-cli -D`
+
+`gemini-david 🌴 : npm i ts-loader -D`
 
 ## Typings for RxJS
 
