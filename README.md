@@ -30,4 +30,4 @@ typings ERR!   <https://github.com/typings/typings/issues>
 
 ## Solution 
 
-`gemini-david 🌴 : node_modules/.bin/typings install dt~es6-shim --global`
+`gemini-david 🌴 : node_modules/.bin/typings install dt~es6-shim --global --save`
